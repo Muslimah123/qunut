@@ -1,5 +1,7 @@
 # Qunūt Follow-Along
 
+Compiled by Hidaya Seidu.
+
 Read along with Sheikh Muhammad Jebril's dua al-qunūt. Each line shows the Arabic with full vowel marks, a transliteration for pronunciation and a plain English meaning. The line being recited lights up as the video plays, and tapping any line jumps the recitation to it.
 
 The recitation plays from the [original video](https://www.youtube.com/watch?v=PDHmIYFpWlk) on [the Sheikh's YouTube channel](https://www.youtube.com/@Mohamed_Jebril). No audio or video is copied into this site.
